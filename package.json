@@ -1,0 +1,19 @@
+{
+  "name": "node-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertBowie/node-bot.git"
+  },
+  "author": "Robert Bowie <robertb1903@gmail.com> (https://github.com/RobertBowie)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/RobertBowie/node-bot/issues"
+  },
+  "homepage": "https://github.com/RobertBowie/node-bot#readme"
+}
